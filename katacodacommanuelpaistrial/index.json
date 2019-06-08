@@ -29,7 +29,7 @@
       "text": "finish.md"
     }
   },
-  "files": [], # define filenames that would be opened by default
+  "files": [], 
   "environment": {
     "showdashboard": true,
     "dashboard": "Jenkins",
