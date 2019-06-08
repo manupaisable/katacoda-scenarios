@@ -6,12 +6,12 @@
     "assets": { 
       "client": [ 
         {
-          "file": "*", 
+          "file": "docker-compose.yml", 
           "target": "~/"
         },
         {
           "file": "jenkins-Dockerfile", 
-          "target": "~/jenkins/Dockerfile"
+          "target": "~/jenkins/"
         } 
       ] 
     },
