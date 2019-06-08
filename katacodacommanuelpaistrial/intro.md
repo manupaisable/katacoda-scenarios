@@ -1,0 +1,1 @@
+In this scenario, you will create a delivery pipeline from zero.
