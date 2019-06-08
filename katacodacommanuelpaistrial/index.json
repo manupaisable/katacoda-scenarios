@@ -22,7 +22,7 @@
     }
   },
   "assets": {
-    "client": [
+    "host01": [
       {
         "file": "docker-compose.yml",
         "target": "~/"
