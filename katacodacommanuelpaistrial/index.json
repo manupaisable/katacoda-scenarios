@@ -3,6 +3,18 @@
   "title": "From Zero to Delivery",
   "description": "See how to launch a fully running pipeline from zero",
   "details": {
+    "assets": {
+      "host01": [
+        {
+          "file": "docker-compose.yml",
+          "target": "~/"
+        }
+      ]
+    },
+    "intro": {
+      "text": "intro.md",
+      "credits": "Manuel Pais"
+    },
     "steps": [
       {
         "title": "Launch delivery pipeline",
@@ -12,23 +24,12 @@
         "title": "Open Jenkins",
         "text": "step2.md"
       }
-    ],
-    "intro": {
-      "text": "intro.md",
-      "credits": "Manuel Pais"
-    },
+    ],    
     "finish": {
       "text": "finish.md"
     }
   },
-  "assets": {
-    "host01": [
-      {
-        "file": "docker-compose.yml",
-        "target": "~/"
-      }
-    ]
-  },
+  "files": [], # define filenames that would be opened by default
   "environment": {
     "showdashboard": true,
     "dashboard": "Jenkins",
@@ -37,6 +38,6 @@
   },
   "backend": {
     "imageid": "docker",
-    "port": 8080
+    "port": 80
   }
 }
