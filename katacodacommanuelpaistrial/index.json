@@ -21,6 +21,14 @@
       "text": "finish.md"
     }
   },
+  "assets": {
+    "client": [
+      {
+        "file": "docker-compose.yml",
+        "target": "~/"
+      }
+    ]
+  },
   "environment": {
     "showdashboard": true,
     "dashboard": "Jenkins",
