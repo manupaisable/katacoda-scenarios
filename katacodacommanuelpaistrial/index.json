@@ -1,29 +1,33 @@
 {
   "pathwayTitle": "Treating Your Pipeline as a Product",
-  "title": "trial",
-  "description": "From Zero to Delivery",
+  "title": "From Zero to Delivery",
+  "description": "See how to launch a fully running pipeline from zero",
   "details": {
     "steps": [
       {
-        "title": "Step 1",
+        "title": "Launch delivery pipeline",
         "text": "step1.md"
       },
       {
-        "title": "Step 2",
+        "title": "Open Jenkins",
         "text": "step2.md"
       }
     ],
     "intro": {
-      "text": "intro.md"
+      "text": "intro.md",
+      "credits": "Manuel Pais"
     },
     "finish": {
       "text": "finish.md"
     }
   },
   "environment": {
-    "uilayout": "editor-terminal"
+    "showdashboard": true,
+    "dashboard": "Jenkins",
+    "uilayout": "terminal-iframe",
+    "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\u001b[m\r\n"
   },
   "backend": {
-    "imageid": "git"
+    "imageid": "docker"
   }
 }
