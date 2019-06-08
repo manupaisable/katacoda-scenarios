@@ -3,13 +3,13 @@
   "title": "From Zero to Delivery",
   "description": "See how to launch a fully running pipeline from zero",
   "details": {
-    "assets": {
-      "client": [
+    "assets": { 
+      "client": [ 
         {
-          "file": "docker-compose.yml",
+          "file": "*", 
           "target": "~/"
-        }
-      ]
+        } 
+      ] 
     },
     "intro": {
       "text": "intro.md",
