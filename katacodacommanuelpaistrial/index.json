@@ -8,10 +8,15 @@
         {
           "file": "*", 
           "target": "~/"
+        },
+        {
+          "file": "jenkins-Dockerfile", 
+          "target": "~/jenkins/Dockerfile"
         } 
       ] 
     },
     "intro": {
+      "courseData": "courseBase.sh",
       "text": "intro.md",
       "credits": "Manuel Pais"
     },
