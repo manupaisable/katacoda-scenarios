@@ -1,2 +1,2 @@
 mkdir jenkins
-mv jenkins-Dockerfile jenkins/
+mv ../jenkins-Dockerfile jenkins/
