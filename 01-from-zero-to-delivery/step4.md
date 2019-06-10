@@ -6,6 +6,6 @@ Now click on Jenkins from the "CI/CD Pipeline" dashboard or follow:
 
 https://[[HOST_SUBDOMAIN]]-80-[[KATACODA_HOST]].environments.katacoda.com/jenkins
 
-Eventually, you should see a green build of the our application called *todobackend-java*. This might take a few minutes depending on the network connection and a page reload.
+Eventually, you should see a green build for our application called *todobackend-java*. This might take a few minutes depending on the network connection. Make sure to refresh the page every few minutes (or click "Enable Auto Refresh" on the top right).
 
 ![step4-app-green-build](step4-app-green-build.png)

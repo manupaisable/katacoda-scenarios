@@ -1,6 +1,6 @@
 Run `docker-compose up -d`{{execute}} (this may take a few minutes to complete as it pulls other necessary docker images that we will use but not build like we did for Jenkins).
 
-Now click the "CI/CD Pipeline" tab on your right, or follow:
+Now click the "CI/CD Pipeline" tab, or follow this link:
 
 https://[[HOST_SUBDOMAIN]]-80-[[KATACODA_HOST]].environments.katacoda.com/
 
