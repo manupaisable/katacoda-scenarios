@@ -22,8 +22,12 @@
         "text": "step1.md"
       },
       {
-        "title": "Build a customized toolchain",
+        "title": "Build customized docker images",
         "text": "step2.md"
+      },
+      {
+        "title": "Launch CI/CD pipeline",
+        "text": "step3.md"
       }
     ],    
     "finish": {

@@ -4,6 +4,8 @@ We can customize things like the Jenkins layout, which plugins to install, and, 
 
 You can browse the "jenkins" folder in the editor to see the customization code.
 
-When ready, start docker-compose build to pull the necessary docker images and build the customized versions:
+When ready, run `docker-compose build`{{execute}} (this may take a few minutes to complete).
 
-`docker-compose build`{{execute}} 
+When finished, you can run `docker images`{{execute}} to find the newly built images: *tutorial_runtime*, *tutorial_nginx*, and *tutorial_jenkins*.
+
+We now have everything ready to launch the delivery pipeline.
