@@ -35,23 +35,11 @@
     "showdashboard": true,
     "dashboards":  [
       {
-        "name": "Toolchain",
+        "name": "Dashboard",
         "port": 80
-      },
-      {
-        "name": "Jenkins",
-        "port": 8080
-      },
-      {
-        "name": "Artifactory",
-        "port": 8081
-      },
-      {
-        "name": "ToDo Backend",
-        "port": 44419
       }
     ],
-    "uilayout": "terminal-iframe",
+    "uilayout": "editor-terminal",
     "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\u001b[m\r\n"
   },
   "backend": {
