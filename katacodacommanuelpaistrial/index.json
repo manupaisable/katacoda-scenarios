@@ -18,7 +18,7 @@
     },
     "steps": [
       {
-        "title": "Launch delivery pipeline",
+        "title": "Check nothing is running yet",
         "text": "step1.md"
       },
       {
@@ -43,7 +43,6 @@
     "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\u001b[m\r\n"
   },
   "backend": {
-    "imageid": "docker",
-    "port": 80
+    "imageid": "docker"
   }
 }
