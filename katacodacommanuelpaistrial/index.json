@@ -33,7 +33,24 @@
   "files": [], 
   "environment": {
     "showdashboard": true,
-    "dashboard": "Jenkins",
+    "dashboards":  [
+      {
+        "name": "Toolchain",
+        "port": 80
+      },
+      {
+        "name": "Jenkins",
+        "port": 8080
+      },
+      {
+        "name": "Artifactory",
+        "port": 8081
+      },
+      {
+        "name": "ToDo Backend",
+        "port": 44419
+      }
+    ],
     "uilayout": "terminal-iframe",
     "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\u001b[m\r\n"
   },
