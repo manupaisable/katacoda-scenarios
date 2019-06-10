@@ -6,7 +6,7 @@
     "assets": { 
       "client": [ 
         {
-          "file": "demo-from-zero-to-delivery.zip", 
+          "file": "*", 
           "target": "~/"
         }
       ] 
