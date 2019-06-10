@@ -1,6 +1,6 @@
 First, click the "CI/CD Pipeline" tab on your right, or follow:
 
-URL https://[[HOST_SUBDOMAIN]]-80-[[KATACODA_HOST]].environments.katacoda.com/
+https://[[HOST_SUBDOMAIN]]-80-[[KATACODA_HOST]].environments.katacoda.com/
 
 You should see a message similar to this showing that there is nothing running on the host yet:
 
