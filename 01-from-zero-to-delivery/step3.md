@@ -1,4 +1,4 @@
-Run `docker-compose up -d`{{execute}} (this may take a few minutes to complete as it pulls any other docker images that did not have to be customized and built by us).
+Run `docker-compose up -d`{{execute}} (this may take a few minutes to complete as it pulls other necessary docker images that we will use but not build like we did for Jenkins).
 
 Now click the "CI/CD Pipeline" tab on your right, or follow:
 
