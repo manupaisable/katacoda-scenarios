@@ -8,4 +8,22 @@ https://[[HOST_SUBDOMAIN]]-80-[[KATACODA_HOST]].environments.katacoda.com/jenkin
 
 Eventually, you should see a green build for our application called *todobackend-java*. This might take a few minutes depending on the network connection. Make sure to refresh the page every few minutes (or click "Enable Auto Refresh" on the top right).
 
+1
+
+![step4-app-green-build](step4-app-green-build.png)
+
+2 
+
 ![step4-app-green-build](/katacoda-scenarios/01-from-zero-to-delivery/assets/step4-app-green-build.png)
+
+3
+
+![step4-app-green-build](katacoda-scenarios/01-from-zero-to-delivery/assets/step4-app-green-build.png)
+
+4
+
+![step4-app-green-build](01-from-zero-to-delivery/assets/step4-app-green-build.png)
+
+5
+
+![step4-app-green-build](assets/step4-app-green-build.png)
