@@ -10,11 +10,11 @@
     },
     "steps": [
       {
-        "title": "Check nothing is running yet",
+        "title": "Check nothing is running",
         "text": "step1.md"
       },
       {
-        "title": "Build customized docker images",
+        "title": "Build custom Jenkins image",
         "text": "step2.md"
       },
       {

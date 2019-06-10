@@ -6,6 +6,6 @@ You can browse the "jenkins" folder in the editor to see the customization code.
 
 When ready, run `docker-compose build`{{execute}} (this may take a few minutes to complete).
 
-When finished, you can run `docker images`{{execute}} to find the newly built images: *tutorial_runtime*, *tutorial_nginx*, and *tutorial_jenkins*.
+When finished, you can run `docker images`{{execute}} to find the newly built images: *root_runtime*, *root_nginx*, and *root_jenkins*.
 
 We now have everything ready to launch the delivery pipeline.
