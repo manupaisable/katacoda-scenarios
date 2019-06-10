@@ -3,14 +3,6 @@
   "title": "From Zero to Delivery",
   "description": "See how to launch a fully running pipeline from zero",
   "details": {
-    "assets": { 
-      "client": [ 
-        {
-          "file": "demo-from-zero-to-delivery.tar", 
-          "target": "~/"
-        }
-      ] 
-    },
     "intro": {
       "courseData": "courseBase.sh",
       "text": "intro.md",
@@ -51,6 +43,6 @@
     "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\u001b[m\r\n"
   },
   "backend": {
-    "imageid": "docker"
+    "imageid": "ubuntu"
   }
 }
