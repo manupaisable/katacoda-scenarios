@@ -2,6 +2,4 @@ In this scenario, you will get a full delivery chain up and running from zero.
 
 The initial environment has Docker installed. We will use docker-compose to stand up and orchestrate a new delivery chain composed of Jenkins to build and test our sample application and Artifactory to store the resulting artifacts.
 
-First, click the "Toolchain" tab on your right to confirm that there is nothing running on the host yet.
-
 Now let's get started!

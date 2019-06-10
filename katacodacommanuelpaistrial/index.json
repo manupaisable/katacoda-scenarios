@@ -35,7 +35,7 @@
     "showdashboard": true,
     "dashboards":  [
       {
-        "name": "Dashboard",
+        "name": "CI/CD Pipeline",
         "port": 80
       }
     ],

@@ -1,0 +1,1 @@
+First, click the "CI/CD Pipeline" tab on your right (or follow the URL https://[[HOST_SUBDOMAIN]]-80-[[KATACODA_HOST]].environments.katacoda.com/) to confirm that there is nothing running on the host yet.
