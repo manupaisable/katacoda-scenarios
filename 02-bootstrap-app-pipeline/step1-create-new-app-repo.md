@@ -10,6 +10,6 @@ https://github.com/SkeltonThatcher/spincast-todobackend
 
 ![step1-fork-repo](step1-fork-repo.png)
 
-This the pipeline definition (Jenkinsfile) for the app we just forked: 
+For reference, here is the pipeline definition (Jenkinsfile) for the app we just forked: 
 
 https://github.com/SkeltonThatcher/spincast-todobackend/blob/master/Jenkinsfile
