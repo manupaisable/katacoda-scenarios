@@ -1,4 +1,6 @@
-While you read this, Jenkins should be picking up the new job/pipeline configuration, checking out your forked GitHub repo, and starting a new pipeline run for the new job.
+While you read this, Jenkins should be starting, picking up the new job/pipeline configuration, checking out your forked GitHub repo, and starting a new pipeline run for the new job. 
+
+**This can take a few minutes, please keep calm and refresh the page :)**
 
 Click on Jenkins from the "CI/CD Pipeline" dashboard or follow:
 

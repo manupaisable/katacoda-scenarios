@@ -48,6 +48,5 @@
   },
   "backend": {
     "imageid": "ubuntu"
-  },
-  "embedded_survey_url": "https://tinyurl.com/jaxtopologies"
+  }
 }
