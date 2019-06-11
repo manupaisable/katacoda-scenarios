@@ -4,22 +4,17 @@
     "courses": [
       {
         "course_id": "01-from-zero-to-delivery",
-        "title": "From Zero to Delivery",
+        "title": "01 From Zero to Delivery",
         "description": "See how to launch a fully running pipeline from zero"
       },
       {
         "course_id": "02-bootstrap-app-pipeline",
-        "title": "Bootstrap a New Application Pipeline",
-        "description": "See how to quickly bootstrap a pipeline for a new app"
-      },
-      {
-        "course_id": "02-bootstrap-app-pipeline",
-        "title": "Bootstrap a New Application Pipeline",
+        "title": "02 Bootstrap a New Application Pipeline",
         "description": "See how to quickly bootstrap a pipeline for a new app"
       },
       {
         "course_id": "03-extend-pipeline",
-        "title": "Extend the Pipeline with Code Analysis",
+        "title": "03 Extend the Pipeline with Code Analysis",
         "description": "See how to safely integrate a new pipeline activity"
       }
     ]
