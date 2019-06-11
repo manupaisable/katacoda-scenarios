@@ -1,7 +1,3 @@
-In a short sequence of steps, we have built and launched a simple but complete delivery system. 
+In a very short sequence of steps, we have updated our configuration and launched a new version of the delivery system with SonarQube up and running. 
 
-All the necessary configuration was coded, allowing a full restore of Jenkins, including required plugins and job for our application. 
-
-Once Jenkins found the application pipeline definition (Jenkinsfile) in its repo, it launched the pipeline run without any manual intervention.
-
-In short, with "everything as code" and a few commands we have been able to go from nothing running to a full delivery system with pipelines being executed!
+All the necessary configuration was coded, allowing a full restore of the system at any time.

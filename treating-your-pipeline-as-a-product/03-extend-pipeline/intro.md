@@ -1,11 +1,11 @@
-In this scenario, you will quickly bootstrap a pipeline for a new app. 
+In this  scenario, you will quickly add a static analysis tool to the delivery system.
 
-Adding a new pipeline for a known stack to the delivery system should be fast and not require error-prone manual intervention (copy/paste between jobs). 
+Manually installing and configuring tools is slow and error-prone. It's also risky to do it directly on the live delivery system that application teams depend on. 
 
-At the same time, by keeping everything configured as code, we guarantee that we can at any moment recreate a fully running delivery system - including our application pipelines!
+Instead, we want to configure and add this tool via code. This can be as simple as specifying the container image to use and setting up credentials and ports. 
 
-We will use docker-compose to launch the delivery chain composed of Jenkins to build and test our example applications and Artifactory to store the resulting artifacts.
+At the same time, by keeping everything configured as code, we guarantee that we can at any moment recreate a fully running delivery system - including any tools added along the way.
 
-Once up and running, we should find the new pipeline running side by side with pre-existing ones.
+We will add SonarQube to our delivery chain that already included Jenkins and Artifactory.
 
 Now let's get started!

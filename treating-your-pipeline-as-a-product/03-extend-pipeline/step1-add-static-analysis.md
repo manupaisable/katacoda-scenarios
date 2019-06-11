@@ -4,4 +4,4 @@ Your environment already includes an updated *docker-compose.yml* file which set
 
 You can see the changes made to *docker-compose.yml* to run SonarQube by executing this command:
 
-``diff docker-compose-before.yaml docker-compose.yml``{execute}
+``diff docker-compose-before.yml docker-compose.yml``{{execute}}
