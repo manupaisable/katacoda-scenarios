@@ -10,24 +10,12 @@
     },
     "steps": [
       {
-        "title": "Diff docker-compose.yml",
-        "text": "step1-create-new-app-repo.md"
-      },
-      {
-        "title": "Add a new pipeline in Jenkins for the new app",
-        "text": "step2-add-new-pipeline.md"
-      },
-      {
-        "title": "Build custom Jenkins image",
-        "text": "step3-build-custom-jenkins-image.md"
+        "title": "Add a static analysis tool to the toolchain",
+        "text": "step1-add-static-analysis.md"
       },
       {
         "title": "Launch CI/CD pipeline",
-        "text": "step4-launch-cicd-pipeline.md"
-      },
-      {
-        "title": "Check Jenkins has run the new pipeline and built our app",
-        "text": "step5-check-new-pipeline-run.md"
+        "text": "step2-launch-cicd-pipeline.md"
       }
     ],    
     "finish": {
