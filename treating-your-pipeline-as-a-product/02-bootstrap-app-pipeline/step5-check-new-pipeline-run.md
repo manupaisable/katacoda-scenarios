@@ -10,4 +10,4 @@ You should see two pipelines, one is the pre-existing *todobackend-java* and a n
 
 Eventually, you should see a green build for our new application. This might take a few minutes depending on the network connection.
 
-![step5-new-pipeline-built](step5-new-pipeline-built.png)
+![step5-new-pipeline-built](/manuelpais/courses/treating-your-pipeline-as-a-product/02-bootstrap-app-pipeline/assets/step5-new-pipeline-built.png)

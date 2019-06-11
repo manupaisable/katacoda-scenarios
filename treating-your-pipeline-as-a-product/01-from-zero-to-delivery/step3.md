@@ -6,4 +6,4 @@ https://[[HOST_SUBDOMAIN]]-80-[[KATACODA_HOST]].environments.katacoda.com/
 
 You should see a dashboard listing the available tools (Jenkins and Artifactory):
 
-![step3-CD-pipeline-with-jenkins-artifactory](step3-CD-pipeline-with-jenkins-artifactory.png)
+![step3-CD-pipeline-with-jenkins-artifactory](/manuelpais/courses/treating-your-pipeline-as-a-product/01-from-zero-to-delivery/assets/step3-CD-pipeline-with-jenkins-artifactory.png)
