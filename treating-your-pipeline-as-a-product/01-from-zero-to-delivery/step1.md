@@ -4,4 +4,4 @@ https://[[HOST_SUBDOMAIN]]-80-[[KATACODA_HOST]].environments.katacoda.com/
 
 You should see a message similar to this showing that there is nothing running on the host yet:
 
-![step1-empty-toolchain](/katacoda-scenarios/treating-your-pipeline-as-a-product/01-from-zero-to-delivery/assets/step1-empty-toolchain.png)
+![step1-empty-toolchain](/treating-your-pipeline-as-a-product/01-from-zero-to-delivery/assets/step1-empty-toolchain.png)
