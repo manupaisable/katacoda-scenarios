@@ -1,7 +1,6 @@
 {
     "title": "Treating Your Pipeline as a Product",
     "description": "Caring about resilience, availability and other i-lities of your delivery system",
-    "icon": "fa-katacoda",
     "courses": [
       {
         "course_id": "01-from-zero-to-delivery",
@@ -12,6 +11,16 @@
         "course_id": "02-bootstrap-app-pipeline",
         "title": "Bootstrap a New Application Pipeline",
         "description": "See how to quickly bootstrap a pipeline for a new app"
+      },
+      {
+        "course_id": "02-bootstrap-app-pipeline",
+        "title": "Bootstrap a New Application Pipeline",
+        "description": "See how to quickly bootstrap a pipeline for a new app"
+      },
+      {
+        "course_id": "03-extend-pipeline",
+        "title": "Extend the Pipeline with Code Analysis",
+        "description": "See how to safely integrate a new pipeline activity"
       }
     ]
 }

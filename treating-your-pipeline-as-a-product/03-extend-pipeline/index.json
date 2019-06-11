@@ -1,7 +1,7 @@
 {
   "pathwayTitle": "Treating Your Pipeline as a Product",
-  "title": "Bootstrap a New Application Pipeline",
-  "description": "See how to quickly bootstrap a pipeline for a new app",
+  "title": "Extend the Pipeline with Code Analysis",
+  "description": "See how to safely integrate a new pipeline activity",
   "details": {
     "assets": { 
       "client": [ 
@@ -18,7 +18,7 @@
     },
     "steps": [
       {
-        "title": "Create a new app repo in GitHub",
+        "title": "Diff docker-compose.yml",
         "text": "step1-create-new-app-repo.md"
       },
       {
