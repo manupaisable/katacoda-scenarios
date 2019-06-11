@@ -3,14 +3,6 @@
   "title": "Extend the Pipeline with Code Analysis",
   "description": "See how to safely integrate a new pipeline activity",
   "details": {
-    "assets": { 
-      "client": [ 
-        {
-          "file": "*", 
-          "target": "~/"
-        }
-      ] 
-    },
     "intro": {
       "courseData": "courseBase.sh",
       "text": "intro.md",
