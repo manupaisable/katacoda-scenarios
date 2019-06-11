@@ -1,0 +1,52 @@
+{
+  "pathwayTitle": "Treating Your Pipeline as a Product",
+  "title": "Adding a new application pipeline",
+  "description": "See how to quickly bootstrap a pipeline for a new app",
+  "details": {
+    "intro": {
+      "courseData": "courseBase.sh",
+      "text": "intro.md",
+      "credits": "Manuel Pais"
+    },
+    "steps": [
+      {
+        "title": "Create a new app repo in GitHub",
+        "text": "step1-create-new-app-repo.md"
+      },
+      {
+        "title": "Add a new pipeline in Jenkins for the new app",
+        "text": "step2-add-new-pipeline.md"
+      },
+      {
+        "title": "Build custom Jenkins image",
+        "text": "step3-build-custom-jenkins-image.md"
+      },
+      {
+        "title": "Launch CI/CD pipeline",
+        "text": "step4-launch-cicd-pipeline.md"
+      },
+      {
+        "title": "Check Jenkins has run the new pipeline and built our app",
+        "text": "step5-check-new-pipeline-run.md"
+      }
+    ],    
+    "finish": {
+      "text": "finish.md"
+    }  
+  },
+  "files": [], 
+  "environment": {
+    "showdashboard": true,
+    "dashboards":  [
+      {
+        "name": "CI/CD Pipeline",
+        "port": 80
+      }
+    ],
+    "uilayout": "editor-terminal",
+    "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\u001b[m\r\n"
+  },
+  "backend": {
+    "imageid": "ubuntu"
+  }
+}
