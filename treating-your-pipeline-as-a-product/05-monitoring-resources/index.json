@@ -1,0 +1,44 @@
+{
+  "pathwayTitle": "Treating Your Pipeline as a Product",
+  "title": "05 Monitoring CI/CD Resources Usage",
+  "description": "Monitor resource usage by the entire toolchain",
+  "details": {
+    "intro": {
+      "courseData": "courseBase.sh",
+      "text": "intro.md",
+      "credits": "Manuel Pais"
+    },
+    "steps": [
+      {
+        "title": "Add containers monitoring",
+        "text": "step1-add-containers-monitoring.md"
+      },
+      {
+        "title": "Launch CI/CD pipeline",
+        "text": "step2-launch-cicd-pipeline.md"
+      },
+      {
+        "title": "Inspect resource usage",
+        "text": "step3-inspect-resource-usage.md"
+      }
+    ],    
+    "finish": {
+      "text": "finish.md"
+    }  
+  },
+  "files": [], 
+  "environment": {
+    "showdashboard": true,
+    "dashboards":  [
+      {
+        "name": "CI/CD Pipeline",
+        "port": 80
+      }
+    ],
+    "uilayout": "editor-terminal",
+    "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\u001b[m\r\n"
+  },
+  "backend": {
+    "imageid": "ubuntu"
+  }
+}
