@@ -1,4 +1,4 @@
-In order to add a new tool to our delivery system and make it available to the pipelines, we need to recreate the full system.
+In order to activate monitoring, we need to recreate the full system.
 
 This also gives us the assurance that we can, at any moment, recreate our full delivery system from zero (as opposed to manually installing and connecting the new stack), including the monitoring setup.
 
