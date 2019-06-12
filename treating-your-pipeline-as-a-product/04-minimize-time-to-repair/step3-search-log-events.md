@@ -6,9 +6,9 @@ https://[[HOST_SUBDOMAIN]]-5601-[[KATACODA_HOST]].environments.katacoda.com/
 
 You should be prompted for credentials, use:
 
-Username: **cicd**
+Username: **kibana**
 
-Password: **workshop**
+Password: **changeme**
 
 ![step3-Kibana-login](/manuelpais/courses/treating-your-pipeline-as-a-product/04-minimize-time-to-repair/assets/step3-Kibana-login-small.png)
 

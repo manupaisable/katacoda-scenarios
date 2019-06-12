@@ -1,16 +1,9 @@
-Aggregated logging for CI/CD means that we ship all the logs from all the tools (Jenkins, Artifactory, etc) off the containers where they are generated, to a central location for easy querying and diagnosing across the entire toolchain.
+We will use Google's [cAdvisor](https://github.com/google/cadvisor), a tool that  collects resource usage and performance information from running containers.
 
-In this scenario we will use the Elastic stack for aggregated logging:
+In order to add cAdvisor to our delivery toolchain, we can use the official docker image.
 
-- [Filebeat](https://www.elastic.co/products/beats/filebeat) (log shipping)
-- [Logstash](https://www.elastic.co/products/logstash) (log collection)
-- [Elasticsearch](https://www.elastic.co/products/elasticsearch) (search engine)
-- [Kibana](https://www.elastic.co/products/kibana) (UI)
+Your environment already includes an updated *docker-compose.yml* file which sets up cAdvisor. This is because we are using *docker-compose* as a basic container orchestration tool for our toolchain. The same approach would be applicable for other orchestrators like Kubernetes (in fact, [cAdvisor can expose metrics for a monitoring tool like Prometheus to consume](https://prometheus.io/docs/guides/cadvisor/)).
 
-In order to add  to our delivery toolchain, we can use the official Elastic stack docker images.
-
-Your environment already includes an updated *docker-compose.yml* file which sets up the Elastic stack. This is because we are using *docker-compose* as a basic container orchestration tool for our toolchain. The same approach would be applicable for other orchestrators like Kubernetes.
-
-You can see the changes made to *docker-compose.yml* to run the Elastic stack by executing this command:
+You can see the changes made to *docker-compose.yml* to run cAdvisor by executing this command:
 
 ``diff docker-compose-before.yml docker-compose.yml``{{execute}}
