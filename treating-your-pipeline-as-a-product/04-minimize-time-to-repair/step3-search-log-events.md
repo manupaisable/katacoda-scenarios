@@ -10,7 +10,7 @@ Username: **cicd**
 
 Password: **workshop**
 
-![step3-Kibana-login](/manuelpais/courses/treating-your-pipeline-as-a-product/04-minimize-time-to-repair/assets/step3-Kibana-login.png)
+![step3-Kibana-login](/manuelpais/courses/treating-your-pipeline-as-a-product/04-minimize-time-to-repair/assets/step3-Kibana-login-small.png)
 
 You should then see the home page for Kibana:
 
