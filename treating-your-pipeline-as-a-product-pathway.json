@@ -26,6 +26,11 @@
         "course_id": "05-monitoring-resources",
         "title": "05 Monitor CI/CD Resources Usage",
         "description": "Monitor resource usage across the entire delivery system"
+      },
+      {
+        "course_id": "06-blue-green-updates",
+        "title": "06 Reduce Downtime with Blue-Green Updates",
+        "description": "Reduce downtime with blue-green updates"
       }
     ]
 }

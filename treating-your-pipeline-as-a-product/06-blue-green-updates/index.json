@@ -1,0 +1,48 @@
+{
+  "pathwayTitle": "Treating Your Pipeline as a Product",
+  "title": "06 Reduce Downtime with Blue-Green Updates",
+  "description": "Reduce downtime with blue-green updates",
+  "details": {
+    "intro": {
+      "courseData": "courseBase.sh",
+      "text": "intro.md",
+      "credits": "Manuel Pais"
+    },
+    "steps": [
+      {
+        "title": "Check nothing is running",
+        "text": "step1.md"
+      },
+      {
+        "title": "Build custom Jenkins image",
+        "text": "step2.md"
+      },
+      {
+        "title": "Launch CI/CD pipeline",
+        "text": "step3.md"
+      },
+      {
+        "title": "Check Jenkins has built our application pipeline",
+        "text": "step4.md"
+      }
+    ],    
+    "finish": {
+      "text": "finish.md"
+    }  
+  },
+  "files": [], 
+  "environment": {
+    "showdashboard": true,
+    "dashboards":  [
+      {
+        "name": "CI/CD Pipeline",
+        "port": 80
+      }
+    ],
+    "uilayout": "editor-terminal",
+    "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\u001b[m\r\n"
+  },
+  "backend": {
+    "imageid": "ubuntu"
+  }
+}
