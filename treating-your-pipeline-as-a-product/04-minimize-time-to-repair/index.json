@@ -1,7 +1,7 @@
 {
   "pathwayTitle": "Treating Your Pipeline as a Product",
-  "title": "Extend the Pipeline with Code Analysis",
-  "description": "See how to safely integrate a new pipeline activity",
+  "title": "04 Minimize Time To Repair Pipeline Tooling Issues",
+  "description": "Use aggregated logging to quickly diagnose problems",
   "details": {
     "intro": {
       "courseData": "courseBase.sh",

@@ -16,6 +16,11 @@
         "course_id": "03-extend-pipeline",
         "title": "03 Extend the Pipeline with Code Analysis",
         "description": "See how to safely integrate a new pipeline activity"
+      },
+      {
+        "course_id": "04-minimize-time-to-repair",
+        "title": "04 Minimize Time To Repair Pipeline Tooling Issues",
+        "description": "Use aggregated logging to quickly diagnose problems"
       }
     ]
 }
