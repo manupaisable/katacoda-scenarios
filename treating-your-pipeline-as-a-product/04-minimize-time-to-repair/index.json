@@ -16,6 +16,10 @@
       {
         "title": "Launch CI/CD pipeline",
         "text": "step2-launch-cicd-pipeline.md"
+      },
+      {
+        "title": "Search log events",
+        "text": "step3-search-log-events.md"
       }
     ],    
     "finish": {

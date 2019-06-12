@@ -1,6 +1,6 @@
-In order to add a new tool to our delivery system and make it available to use in the pipelines, we need to recreate the full system.
+In order to add a new tool to our delivery system and make it available to the pipelines, we need to recreate the full system.
 
-This also gives us the assurance that we can, at any moment, recreate our full delivery system from zero (as opposed to manually installing and connecting the new tool).
+This also gives us the assurance that we can, at any moment, recreate our full delivery system from zero (as opposed to manually installing and connecting the new stack).
 
 In this scenario we will use the *docker logs* utility to fetch the logs from the containers so we can aggregate everything. Please run:
 
