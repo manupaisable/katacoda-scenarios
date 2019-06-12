@@ -1,3 +1,4 @@
+TEST
 You can access Kibana directly via this link:
 
 https://2886795361-5601-kitek05.environments.katacoda.com
