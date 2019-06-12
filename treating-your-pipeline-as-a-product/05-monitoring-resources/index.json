@@ -3,6 +3,14 @@
   "title": "05 Monitor CI/CD Resources Usage",
   "description": "Monitor resource usage across the entire delivery system",
   "details": {
+    "assets": {
+      "client": [
+        {
+          "file": "*",
+          "target": "~/"
+        }
+      ]
+    },
     "intro": {
       "courseData": "courseBase.sh",
       "text": "intro.md",
