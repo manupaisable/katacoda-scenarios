@@ -4,7 +4,7 @@ This also gives us the assurance that we can, at any moment, recreate our full d
 
 In this scenario we will use the *docker logs* utility to fetch the logs from the containers so we can aggregate everything. Please run:
 
-`mkdir -p /volumes/jenkins/ ; touch /volumes/jenkins/jenkins.log ; docker-compose up -d ; docker logs -f -t jenkins &> /volumes/jenkins/jenkins.log &`{{execute}} 
+`docker-compose up -d`{{execute}} 
 
 **Note**: the above command may take a good while to complete as it pulls several docker images that make up the Elastic stack).
 

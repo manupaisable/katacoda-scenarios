@@ -1,6 +1,6 @@
-You can access Kibana directly via this link:
+You can access cAdvisor directly via this link:
 
-https://2886795361-5601-kitek05.environments.katacoda.com
+https://[[HOST_SUBDOMAIN]]-8082-[[KATACODA_HOST]].environments.katacoda.com/
 
 **Note**: Startup for Elastic stack can be slow, allow a couple of minutes and retry if at first the Kibana link doesn't load. 
 

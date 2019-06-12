@@ -24,7 +24,7 @@
       },
       {
         "course_id": "05-monitoring-resources",
-        "title": "05 Monitoring CI/CD Resources Usage",
+        "title": "05 Monitor CI/CD Resources Usage",
         "description": "Monitor resource usage by the entire toolchain"
       }
     ]

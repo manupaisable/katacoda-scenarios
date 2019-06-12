@@ -1,6 +1,6 @@
 {
   "pathwayTitle": "Treating Your Pipeline as a Product",
-  "title": "05 Monitoring CI/CD Resources Usage",
+  "title": "05 Monitor CI/CD Resources Usage",
   "description": "Monitor resource usage by the entire toolchain",
   "details": {
     "intro": {
