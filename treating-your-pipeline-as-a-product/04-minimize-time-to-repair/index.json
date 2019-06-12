@@ -10,7 +10,7 @@
     },
     "steps": [
       {
-        "title": "Add aggregated logging to the toolchain",
+        "title": "Add aggregated logging",
         "text": "step1-add-aggregated-logging.md"
       },
       {
