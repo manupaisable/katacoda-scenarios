@@ -2,6 +2,7 @@
   "pathwayTitle": "Treating Your Pipeline as a Product",
   "title": "From Zero to Delivery",
   "description": "See how to launch a fully running pipeline from zero",
+  "time": "20-25 minutes",
   "details": {
     "intro": {
       "courseData": "courseBase.sh",

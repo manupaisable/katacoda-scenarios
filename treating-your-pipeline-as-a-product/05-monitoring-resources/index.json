@@ -2,6 +2,7 @@
   "pathwayTitle": "Treating Your Pipeline as a Product",
   "title": "05 Monitor CI/CD Resources Usage",
   "description": "Monitor resource usage across the entire delivery system",
+  "time": "15-20 minutes",
   "details": {
     "assets": {
       "client": [

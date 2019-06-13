@@ -2,6 +2,7 @@
   "pathwayTitle": "Treating Your Pipeline as a Product",
   "title": "06 Reduce Downtime with Blue-Green Updates",
   "description": "Reduce downtime with blue-green updates",
+  "time": "20-25 minutes",
   "details": {
     "intro": {
       "courseData": "courseBase.sh",

@@ -2,6 +2,7 @@
   "pathwayTitle": "Treating Your Pipeline as a Product",
   "title": "Extend the Pipeline with Code Analysis",
   "description": "See how to safely integrate a new pipeline activity",
+  "time": "10-15 minutes",
   "details": {
     "intro": {
       "courseData": "courseBase.sh",

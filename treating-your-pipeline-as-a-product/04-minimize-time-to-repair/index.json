@@ -2,6 +2,7 @@
   "pathwayTitle": "Treating Your Pipeline as a Product",
   "title": "04 Minimize Time To Repair Pipeline Tooling Issues",
   "description": "Use aggregated logging to quickly diagnose problems",
+  "time": "20-25 minutes",
   "details": {
     "intro": {
       "courseData": "courseBase.sh",

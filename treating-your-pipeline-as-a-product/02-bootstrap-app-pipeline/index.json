@@ -2,6 +2,7 @@
   "pathwayTitle": "Treating Your Pipeline as a Product",
   "title": "Bootstrap a New Application Pipeline",
   "description": "See how to quickly bootstrap a pipeline for a new app",
+  "time": "10-15 minutes",
   "details": {
     "intro": {
       "courseData": "courseBase.sh",
