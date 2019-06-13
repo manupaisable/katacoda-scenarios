@@ -24,6 +24,10 @@
       {
         "title": "Check Jenkins has built our application pipeline",
         "text": "step4.md"
+      },
+      {
+        "title": "Check that built artifact was stored in Artifactory",
+        "text": "step5.md"
       }
     ],    
     "finish": {
