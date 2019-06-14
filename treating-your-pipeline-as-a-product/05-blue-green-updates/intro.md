@@ -1,5 +1,5 @@
-In this scenario, you will get a full delivery chain up and running from zero.
+In this scenario, you will get not one, but two full delivery systems up and running in parallel: a blue and a green.
 
-The initial environment has Docker installed. We will use docker-compose to stand up and orchestrate a new delivery chain composed of Jenkins to build and test our example applications and Artifactory to store the resulting artifacts.
+The blue version adds SonarQube to the toolchain, showing how we could upgrade the delivery system in parallel with the "live" green version which development teams are using right now.
 
 Now let's get started!
