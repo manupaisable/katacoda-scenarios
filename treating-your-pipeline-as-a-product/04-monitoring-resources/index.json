@@ -4,14 +4,6 @@
   "description": "Monitor resource usage across the entire delivery system",
   "time": "15-20 minutes",
   "details": {
-    "assets": {
-      "client": [
-        {
-          "file": "*",
-          "target": "~/"
-        }
-      ]
-    },
     "intro": {
       "courseData": "courseBase.sh",
       "text": "intro.md",
