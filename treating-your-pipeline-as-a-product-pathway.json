@@ -8,28 +8,23 @@
         "description": "See how to launch a fully running pipeline from zero"
       },
       {
-        "course_id": "02-bootstrap-app-pipeline",
-        "title": "02 Bootstrap a New Application Pipeline",
-        "description": "See how to quickly bootstrap a pipeline for a new app"
-      },
-      {
-        "course_id": "03-extend-pipeline",
-        "title": "03 Extend the Pipeline with Code Analysis",
+        "course_id": "02-extend-pipeline",
+        "title": "02 Extend the Pipeline with Code Analysis",
         "description": "See how to safely integrate a new pipeline activity"
       },
       {
-        "course_id": "04-minimize-time-to-repair",
-        "title": "04 Minimize Time To Repair Pipeline Tooling Issues",
-        "description": "Use aggregated logging to quickly diagnose problems"
+        "course_id": "03-bootstrap-app-pipeline",
+        "title": "03 Bootstrap a New Application Pipeline",
+        "description": "See how to quickly bootstrap a pipeline for a new app"
       },
       {
-        "course_id": "05-monitoring-resources",
-        "title": "05 Monitor CI/CD Resources Usage",
+        "course_id": "04-monitoring-resources",
+        "title": "04 Monitor CI/CD Resources Usage",
         "description": "Monitor resource usage across the entire delivery system"
       },
       {
-        "course_id": "06-blue-green-updates",
-        "title": "06 Reduce Downtime with Blue-Green Updates",
+        "course_id": "05-blue-green-updates",
+        "title": "05 Reduce Downtime with Blue-Green Updates",
         "description": "Reduce downtime with blue-green updates"
       }
     ]
