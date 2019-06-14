@@ -10,4 +10,4 @@ https://[[HOST_SUBDOMAIN]]-80-[[KATACODA_HOST]].environments.katacoda.com/
 
 You should see a dashboard listing **SonarQube**, Jenkins and Artifactory:
 
-![step2-CD-pipeline-with-sonarqube](/manuelpais/courses/treating-your-pipeline-as-a-product/03-extend-pipeline/assets/step2-CD-pipeline-with-sonarqube.png)
+![step2-CD-pipeline-with-sonarqube](/manuelpais/courses/treating-your-pipeline-as-a-product/02-extend-pipeline/assets/step2-CD-pipeline-with-sonarqube.png)

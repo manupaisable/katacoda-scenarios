@@ -10,5 +10,5 @@ https://[[HOST_SUBDOMAIN]]-80-[[KATACODA_HOST]].environments.katacoda.com/
 
 You should see a dashboard listing **cAdvisor**, Jenkins and Artifactory:
 
-![step2-CD-pipeline-with-cadvisor](/manuelpais/courses/treating-your-pipeline-as-a-product/05-monitoring-resources/assets/step2-CD-pipeline-with-cadvisor.png)
+![step2-CD-pipeline-with-cadvisor](/manuelpais/courses/treating-your-pipeline-as-a-product/04-monitoring-resources/assets/step2-CD-pipeline-with-cadvisor.png)
  

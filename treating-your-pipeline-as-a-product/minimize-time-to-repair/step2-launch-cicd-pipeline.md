@@ -14,5 +14,5 @@ https://[[HOST_SUBDOMAIN]]-80-[[KATACODA_HOST]].environments.katacoda.com/
 
 You should see a dashboard listing **Kibana** (the UI component of Elastic stack), Jenkins and Artifactory:
 
-![step2-CD-pipeline-with-kibana](/manuelpais/courses/treating-your-pipeline-as-a-product/04-minimize-time-to-repair/assets/step2-CD-pipeline-with-kibana.png)
+![step2-CD-pipeline-with-kibana](/manuelpais/courses/treating-your-pipeline-as-a-product/minimize-time-to-repair/assets/step2-CD-pipeline-with-kibana.png)
  

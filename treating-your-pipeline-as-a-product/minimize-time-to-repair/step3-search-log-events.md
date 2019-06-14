@@ -10,8 +10,8 @@ Username: **kibana**
 
 Password: **changeme**
 
-![step3-Kibana-login](/manuelpais/courses/treating-your-pipeline-as-a-product/04-minimize-time-to-repair/assets/step3-Kibana-login-small.png)
+![step3-Kibana-login](/manuelpais/courses/treating-your-pipeline-as-a-product/minimize-time-to-repair/assets/step3-Kibana-login-small.png)
 
 You should then see the home page for Kibana:
 
-![step3-Kibana-home](/manuelpais/courses/treating-your-pipeline-as-a-product/04-minimize-time-to-repair/assets/step3-Kibana-home.png)
+![step3-Kibana-home](/manuelpais/courses/treating-your-pipeline-as-a-product/minimize-time-to-repair/assets/step3-Kibana-home.png)
