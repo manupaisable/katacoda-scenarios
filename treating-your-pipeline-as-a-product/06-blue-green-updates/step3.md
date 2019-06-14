@@ -1,9 +1,3 @@
-Run `docker-compose up -d`{{execute}} (this may take a few minutes to complete as it pulls other necessary docker images that we will use but not build like we did for Jenkins).
+Next, we are going to launch the green CD pipeline in parallel:
 
-Now click the "CI/CD Pipeline" tab, or follow this link:
-
-https://[[HOST_SUBDOMAIN]]-80-[[KATACODA_HOST]].environments.katacoda.com/
-
-You should see a dashboard listing the available tools (Jenkins and Artifactory):
-
-![step3-CD-pipeline-with-jenkins-artifactory](/manuelpais/courses/treating-your-pipeline-as-a-product/01-from-zero-to-delivery/assets/step3-CD-pipeline-with-jenkins-artifactory.png)
+`cd /root/green ; docker-compose up -d`{{execute}} 
